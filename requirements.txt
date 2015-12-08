@@ -1,0 +1,6 @@
+pandas
+mpld3
+matplotlib
+textblob
+TextBlob
+python_instagram
